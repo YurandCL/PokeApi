@@ -1,0 +1,1 @@
+export const getTypes = ({url}:{url: string}) => fetch(url)
